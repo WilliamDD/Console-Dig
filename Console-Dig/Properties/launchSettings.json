@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Console-Dig": {
+      "commandName": "Project",
+      "commandLineArgs": "-s 8.8.8.8 -t ANY -n google.com"
+    }
+  }
+}
